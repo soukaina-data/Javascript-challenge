@@ -12,4 +12,4 @@ That's why we are hiring you. We need you to write code that will create a table
 
 You can handle this... right? The planet Earth needs to know what we have found!
 
-UFO Level One: Automatic Table and Date Search
+UFO Level One: Automatic Table and Date Search.
